@@ -1,3 +1,5 @@
+// C program to create calculator using switch case and functions
+
 #include <stdio.h>
 int main()
 {

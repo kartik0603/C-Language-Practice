@@ -1,3 +1,5 @@
+// C program to find product of digits of a number
+
 #include <stdio.h>
 int main()
 {

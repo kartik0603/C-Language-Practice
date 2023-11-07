@@ -1,3 +1,9 @@
+// ABCDE
+// BCDE
+// CDE
+// DE
+// E
+
 #include <stdio.h>
 int main()
 {

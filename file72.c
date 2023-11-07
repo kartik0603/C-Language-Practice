@@ -1,3 +1,9 @@
+// E
+// DD
+// CCC
+// BBBB
+// AAAAA
+
 #include <stdio.h>
 int main()
 {

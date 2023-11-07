@@ -1,3 +1,9 @@
+// A
+// BA
+// CBA
+// DCBA
+// EDCBA
+
 #include <stdio.h>
 int main()
 {

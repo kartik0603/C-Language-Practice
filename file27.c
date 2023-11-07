@@ -6,7 +6,7 @@ int main()
 {
     int number;
 
-    printf(" Enter Any Number \t ");
+    printf(" Enter Any Number \t :  ");
     scanf("%d", &number);
 
     switch (number > 0)

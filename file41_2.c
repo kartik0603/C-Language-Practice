@@ -1,3 +1,5 @@
+//  To find FIRST DIGIT and LAST DIGIT of Any Number
+
 #include <stdio.h>
 int main()
 {
